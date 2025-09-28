@@ -1,4 +1,4 @@
-# Covid-19 - Python LIBRARIES
+# Covid-19 - Py Lib (Pd , plt , sns)
 A data-driven COVID-19 analysis and visualization project providing real-time statistics, trend analysis, and insights using Python, Pandas, and Matplotlib.
 
 This project performs Exploratory Data Analysis (EDA) on a COVID-19 dataset using Python.
